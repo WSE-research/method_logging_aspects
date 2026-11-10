@@ -55,11 +55,11 @@
         <dependency>
           <groupId>org.aspectj</groupId>             
           <artifactId>aspectjrt</artifactId>             
-          <version>1.9.26</version>         
+          <version>1.9.27</version>         
         </dependency>         
         <dependency>             
           <groupId>org.aspectj</groupId>     
-          <version>1.9.26</version>        
+          <version>1.9.27</version>        
           <artifactId>aspectjweaver</artifactId>         
         </dependency>
   </dependencies>
